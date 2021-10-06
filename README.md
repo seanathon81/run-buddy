@@ -12,3 +12,5 @@ https://lernantino.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Arther-Sean Bryant
+
+# Run Buddy Inc.
